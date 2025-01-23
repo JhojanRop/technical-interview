@@ -47,7 +47,7 @@ Before you begin, ensure your system has the following installed:
 
 - **Python** (latest stable version recommended)
 - **Node.js** (version 16.x or higher recommended)
-- A `.env` file containing the necessary environment variables for database connection. A template file is provided in the repository.
+- A `.env` file into backend folder containing the necessary environment variables for database connection. A template file is provided in the repository.
 
 ### Backend Installation
 
